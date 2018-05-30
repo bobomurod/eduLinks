@@ -13,3 +13,5 @@
 [Лучшие IDE и редакторы кода для Python](https://tproger.ru/translations/python-ide/)
 
 [Как найти первую работу в IT: план действий для начинающих](https://tproger.ru/articles/first-job-searching-guide/?utm_source=grf-eng&utm_medium=partner&utm_campaign=giraff.io)
+
+[10 полезных Python библиотек, о которых вы не слышали](https://tproger.ru/translations/10-python-libraries-you-might-not-know/)
